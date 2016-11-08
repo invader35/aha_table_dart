@@ -8,7 +8,7 @@ environment:
 dependencies:
   less_dart: any
   paper_elements: any
-  polymer: '>=0.15.0 <0.17.0'
+  polymer: any
 transformers:
 - less_dart
 - polymer:
